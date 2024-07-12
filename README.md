@@ -1,6 +1,6 @@
 # Проект: Сайт-портфолио на React
 
-[Ссылка на GitHub Pages](https://yaroslav-chertov.github.io//)
+[Ссылка на GitHub Pages](https://yaroslav-chertov.github.io/portfolio-website/)
 
 ## Описание и функциональность
 
