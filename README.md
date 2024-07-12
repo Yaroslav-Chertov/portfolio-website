@@ -1,6 +1,6 @@
 # Проект: Сайт-портфолио на React
 
-[Ссылка на GitHub Pages](https://yaroslav-chertov.github.io/mesto-react/)
+[Ссылка на GitHub Pages](https://yaroslav-chertov.github.io//)
 
 ## Описание и функциональность
 
