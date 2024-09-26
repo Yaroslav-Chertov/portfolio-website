@@ -4,7 +4,7 @@
 
 ## Описание и функциональность
 
-Одностраничный адаптивный сайт с расширенной анимацией. Выполнен с помощью React, React-bootstrap и Animate.css.
+Одностраничный сайт с расширенной анимацией. Выполнен с помощью React, React-bootstrap и Animate.css.
 
 ![](./src/assets/img/Screenshot_readme.png)
 
